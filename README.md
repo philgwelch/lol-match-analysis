@@ -4,4 +4,4 @@
 
 ### The data were made available by Ben Fattori on [Kaggle](https://www.kaggle.com/benfattori/league-of-legends-diamond-games-first-15-minutes) and this analysis is heavily inspired by Ken Jee's analysis of the Titanic dataset (on [Kaggle](https://www.kaggle.com/kenjee/titanic-project-example) and [YouTube](https://www.youtube.com/watch?v=I3FBJdiExcg&t=0s))
 
-<img src="https://github.com/philgwelch/lol-match-analysis/blob/main/images/pca_decomposision.png" width="300" height="300">
+<img src="https://github.com/philgwelch/lol-match-analysis/blob/main/images/pca_decomposision.png" alt="PCA decomposition of classifier" width="300">
